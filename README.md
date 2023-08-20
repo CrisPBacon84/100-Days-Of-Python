@@ -1,6 +1,6 @@
-# 100-Days-Of-Python
 
-Welcome to my "100 Days of Python" repository! Here, I'm storing all the code I'm writing as I learn Python. Each day's work is organized by day number, making it easy to follow my progress. Feel free to explore.
+100 Days of Python Code
+Welcome to my "100 Days of Python" repository! Here, I'm storing all the code I'm writing as I learn Python. Each day's work is organized by day number, making it easy to follow my progress. Feel free to explore, though keep in mind I'm not a teacher – I'm just a learner sharing my journey.
 
 Getting Around
 Code for each day is in its numbered folder (e.g., Day01/).
